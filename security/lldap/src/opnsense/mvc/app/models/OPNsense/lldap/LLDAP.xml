@@ -1,0 +1,8 @@
+<model>
+    <mount>//OPNsense/LLDAP</mount>
+    <description>
+        LLDAP plugin
+    </description>
+    <items>
+    </items>
+</model>

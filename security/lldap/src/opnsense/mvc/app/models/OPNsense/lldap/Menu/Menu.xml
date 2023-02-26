@@ -1,0 +1,5 @@
+<menu>
+  <Reporting>
+    <LLDAP cssClass="fa fa-area-chart" VisibleName="Speedtest" url="/ui/lldap/"/>
+  </Reporting>
+</menu>
